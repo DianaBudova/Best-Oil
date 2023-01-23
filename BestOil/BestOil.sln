@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestOil", "BestOil\BestOil.csproj", "{4DC59466-DF32-4808-B46D-13D10698E36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestOil.BL", "BestOil.BL\BestOil.BL.csproj", "{0535B0D0-6617-4B1B-A7FF-834037B08886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC59466-DF32-4808-B46D-13D10698E36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC59466-DF32-4808-B46D-13D10698E36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC59466-DF32-4808-B46D-13D10698E36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC59466-DF32-4808-B46D-13D10698E36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0535B0D0-6617-4B1B-A7FF-834037B08886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0535B0D0-6617-4B1B-A7FF-834037B08886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0535B0D0-6617-4B1B-A7FF-834037B08886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0535B0D0-6617-4B1B-A7FF-834037B08886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4AA0B83-48A5-4584-9A99-37BD93E7F63A}
+	EndGlobalSection
+EndGlobal
